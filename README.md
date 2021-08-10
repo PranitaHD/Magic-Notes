@@ -1,0 +1,2 @@
+# Magic-Notes
+Language :- HTML &amp; JavaScript with Bootstrap. Like we have Notes in our Mobile Phones same as that Magic Notes will work. Here you have to enter the Note Title of your Note then the main Note you want to write and at the end you can add your Note. After adding a Note in the website your Note will be shown followed by the form. In that followed section you can also delete the existing Notes. I have used Visual Studio Code here.
